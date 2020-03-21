@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    { "id": 1, "name": "iphone", "price": 900 },
+    { "id": 2, "name": "samsung", "price": 700 }
+  ]
 }
